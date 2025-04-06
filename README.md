@@ -1,2 +1,2 @@
-# PIM Audit for SPNs
-PIM Audit for Directory Service Roles SPNs
+# PIM Audit for SPNs Using Microsoft Graph API & PowerShell 
+
